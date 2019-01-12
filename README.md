@@ -6,4 +6,3 @@
 ## [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
 타이타닉 데이터 
 
-svd
